@@ -2,6 +2,7 @@ Deny from all
 <IfModule mod_authz_core.c>
   <RequireAny>
     Require ip 109.183.230.59
+    Require ip 109.81.84.87
   </RequireAny>
 </IfModule>
 
@@ -9,6 +10,7 @@ Deny from all
   Order Deny,Allow
   Deny from all
   Allow from 109.183.230.59
+  Allow from 109.81.84.87
 </IfModule>
 
 <IfModule mod_rewrite.c>

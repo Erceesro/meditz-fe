@@ -1,3 +1,4 @@
+Deny from all
 <IfModule mod_authz_core.c>
   <RequireAny>
     Require ip 109.183.230.59

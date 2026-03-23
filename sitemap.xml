@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>http://localhost:3000/</loc></url>
+  <url><loc>http://localhost:3000/preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=campaigns-broadcasting-overview&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=campaigns-status-active&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=campaigns-status-live&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=campaigns-status-paused&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=campaigns-status-planned&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=cpm-target&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=cpm&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=cpv-target&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=cpv&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=crm-organizations-total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=crm-users-total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=devices-network-load-overview&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=finance-avg-ad-price&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=finance-avg-meditz-reward&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=finance-avg-operator-reward&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=finance-campaign-budget-overview&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=finance-meditz-reward-total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=finance-operator-reward-total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=finance-used-credit&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=playbacks-total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=reach-target-total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=reach-total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=target-reach-ratio&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=views-reach-ratio&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=views-target-total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=views-total&amp;mode=preview</loc></url>
+</urlset>

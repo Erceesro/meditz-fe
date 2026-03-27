@@ -10,6 +10,7 @@ Deny from all
     Require ip 185.151.169.6
     Require ip 109.81.83.14
     Require ip 109.81.87.129
+    Require ip 109.81.29.60
   </RequireAny>
 </IfModule>
 
@@ -25,6 +26,7 @@ Deny from all
   Allow from 185.151.169.6
   Allow from 109.81.83.14
   Allow from 109.81.87.129
+  Allow from 109.81.29.60
 </IfModule>
 
 <IfModule mod_rewrite.c>

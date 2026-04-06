@@ -3,10 +3,6 @@
   <url><loc>http://localhost:3000/</loc></url>
   <url><loc>http://localhost:3000/preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=campaigns-broadcasting-overview&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=campaigns-status-active&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=campaigns-status-live&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=campaigns-status-paused&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=campaigns-status-planned&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=cpm-target&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=cpm&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=cpv-target&amp;mode=preview</loc></url>
@@ -14,6 +10,7 @@
   <url><loc>http://localhost:3000/preview?metricId=crm-organizations-total&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=crm-users-total&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=devices-network-load-overview&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=finance-avg-ad-length&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=finance-avg-ad-price&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=finance-avg-meditz-reward&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=finance-avg-operator-reward&amp;mode=preview</loc></url>

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Embed Test – meditz-dashboard</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 1rem;
+        font-family: sans-serif;
+        background: #f3f6fb;
+      }
+      h1 {
+        font-size: 1rem;
+        color: #6b7280;
+        margin-bottom: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>meditz-dashboard embed test page</h1>
+
+    <meditz-dashboard
+      bearer-token="__REPLACE_WITH_TOKEN__"
+      api-url="http://127.0.0.1:3010"
+      locale="cs"
+      theme="light"
+      initial-tab=""
+      data-cy="embed-element"
+    ></meditz-dashboard>
+
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>

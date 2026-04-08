@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>http://localhost:3000/</loc></url>
   <url><loc>http://localhost:3000/preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=campaigns-broadcasting-overview&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=cpm-target&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=avg_ad_price&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=avg_meditz_reward_10s&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=avg_operator_reward_10s&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=broadcasting_campaigns&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=campaign_budget_total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=cpm_target&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=cpm&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=cpv-target&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=cpv_target&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=cpv&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=crm-organizations-total&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=crm-users-total&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=devices-network-load-overview&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=finance-avg-ad-length&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=finance-avg-ad-price&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=finance-avg-meditz-reward&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=finance-avg-operator-reward&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=finance-campaign-budget-overview&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=finance-meditz-reward-total&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=finance-operator-reward-total&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=finance-used-credit&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=playbacks-total&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=reach-target-total&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=reach-total&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=target-reach-ratio&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=views-reach-ratio&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=views-target-total&amp;mode=preview</loc></url>
-  <url><loc>http://localhost:3000/preview?metricId=views-total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=devices_network_load_overview&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=finance_avg_ad_length&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=finance_meditz_reward_total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=playbacks_total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=reach_target_total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=reach_total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=target_audience_to_reach_ratio&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=total_credit_used&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=total_operator_reward&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=total_organizations&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=total_users&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=views_target_total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=views_to_reach_ratio&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=views_total&amp;mode=preview</loc></url>
 </urlset>

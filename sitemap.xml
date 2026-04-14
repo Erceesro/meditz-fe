@@ -7,6 +7,8 @@
   <url><loc>http://localhost:3000/preview?metricId=avg_operator_reward_10s&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=broadcasting_campaigns&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=campaign_budget_total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=campaign_detail&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=campaign_mbox_detail&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=cpm_target&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=cpm&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=cpv_target&amp;mode=preview</loc></url>
@@ -14,6 +16,8 @@
   <url><loc>http://localhost:3000/preview?metricId=devices_network_load_overview&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=finance_avg_ad_length&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=finance_meditz_reward_total&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=mbox_detail&amp;mode=preview</loc></url>
+  <url><loc>http://localhost:3000/preview?metricId=organization_detail&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=playbacks_total&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=reach_target_total&amp;mode=preview</loc></url>
   <url><loc>http://localhost:3000/preview?metricId=reach_total&amp;mode=preview</loc></url>
